@@ -753,6 +753,7 @@
   * [Potential Energy](physics/potential_energy.py)
   * [Rms Speed Of Molecule](physics/rms_speed_of_molecule.py)
   * [Shear Stress](physics/shear_stress.py)
+  * [Speed Of Sound](physics/speed_of_sound.py)
 
 ## Project Euler
   * Problem 001
